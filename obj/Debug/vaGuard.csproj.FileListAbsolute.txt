@@ -1,0 +1,12 @@
+C:\Users\vNoisy\source\repos\FivemLauncher\vGuard\bin\Debug\vGuard.exe.config
+C:\Users\vNoisy\source\repos\FivemLauncher\vGuard\bin\Debug\vGuard.exe
+C:\Users\vNoisy\source\repos\FivemLauncher\vGuard\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vNoisy\source\repos\FivemLauncher\vGuard\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vNoisy\source\repos\FivemLauncher\vGuard\obj\Debug\vaGuard.csprojAssemblyReference.cache
+C:\Users\vNoisy\source\repos\FivemLauncher\vGuard\obj\Debug\vGuard.ProjectInstaller.resources
+C:\Users\vNoisy\source\repos\FivemLauncher\vGuard\obj\Debug\vaGuard.csproj.GenerateResource.cache
+C:\Users\vNoisy\source\repos\FivemLauncher\vGuard\obj\Debug\vaGuard.csproj.CoreCompileInputs.cache
+C:\Users\vNoisy\source\repos\FivemLauncher\vGuard\obj\Debug\vaGuard.csproj.CopyComplete
+C:\Users\vNoisy\source\repos\FivemLauncher\vGuard\obj\Debug\vGuard.exe
+C:\Users\vNoisy\source\repos\FivemLauncher\vGuard\obj\Debug\vGuard.pdb
+C:\Users\vNoisy\source\repos\FivemLauncher\vGuard\bin\Debug\vGuard.pdb
