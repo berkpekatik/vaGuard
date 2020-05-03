@@ -1,9 +1,0 @@
-C:\Users\vNoisy\source\repos\FivemLauncher\vGuard\bin\Debug\vGuard.exe.config
-C:\Users\vNoisy\source\repos\FivemLauncher\vGuard\bin\Debug\vGuard.exe
-C:\Users\vNoisy\source\repos\FivemLauncher\vGuard\bin\Debug\vGuard.pdb
-C:\Users\vNoisy\source\repos\FivemLauncher\vGuard\obj\Debug\vGuard.csprojAssemblyReference.cache
-C:\Users\vNoisy\source\repos\FivemLauncher\vGuard\obj\Debug\vGuard.ProjectInstaller.resources
-C:\Users\vNoisy\source\repos\FivemLauncher\vGuard\obj\Debug\vGuard.csproj.GenerateResource.cache
-C:\Users\vNoisy\source\repos\FivemLauncher\vGuard\obj\Debug\vGuard.csproj.CoreCompileInputs.cache
-C:\Users\vNoisy\source\repos\FivemLauncher\vGuard\obj\Debug\vGuard.exe
-C:\Users\vNoisy\source\repos\FivemLauncher\vGuard\obj\Debug\vGuard.pdb
