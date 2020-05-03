@@ -1,6 +1,6 @@
 # vaGuard
 (fake)hack sheild for the fivem launchers
-
+How can i start myService ?;
 firstly open cmd with Administrator then
 "cd C:\Windows\Microsoft.NET\Framework\v4.0.30319"
 
